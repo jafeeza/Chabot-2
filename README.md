@@ -1,6 +1,5 @@
-![Chatbot](Logo/chatbot.png)
 <p align="center">
-  <img src="Logo/chatbot.png" width="500" alt="Centered Image" />
+  <img src="Logo/chatbot.png" width="250" alt="Centered Image" />
 </p>
 
 # Chatbot-2
