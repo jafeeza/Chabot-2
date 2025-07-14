@@ -1,4 +1,4 @@
-![Chatbot](Logo/Bchatbot.png)
+![Chatbot](Logo/chatbot.png)
 
 # Chatbot-2
 
